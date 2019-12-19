@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
                   case ConnectionState.none:
                     return Center(
                       child: Image.asset(
-                          "assets/gifs/loading.webp",
+                          "assets/gifs/loading.gif",
                           height: 10000.0,
                           width: 500.0,
                         )

@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="app2_calculador_imc"
+        android:label="Calculador IMC"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
